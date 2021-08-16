@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <meta property="og:site_name" content="Sowd.Cool">
-<meta property="og:url" content="https://sowd.cool/">
+<meta property="og:url" content="Schervi.wtf">
 <meta property="og:title" content="Homepage">
-<meta property="og:description" content="Creating scripts for all">
+<meta property="og:description" content="Some Shitty Roblox Scripter.">
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#eb1c3a">
 <meta name="og:image" itemprop="image" content="assets/images/image.png">
@@ -222,7 +222,7 @@
     </script>
 <meta charset="utf-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Sowd.cool</title>
+<title>Schervi.wtf</title>
 <meta name="robots" content="noindex, follow">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -241,7 +241,7 @@
 <div class="header-wrapper" id="header-wrapper">
 <div class="header-left">
 <div class="logo">
-<a href="index.php" class="navbar-brand text-white">Sowd</a>
+<a href="index.php" class="navbar-brand text-white">Schervi</a>
 </div>
 </div>
 <div class="header-right">
@@ -253,13 +253,13 @@
 <a href="index.php">Home</a>
 </li>
 <li>
-<a href="https://sellix.io/Sowd">Shop</a>
+<a href="https://discord.gg/mpYekpQ2CW">Shop</a>
 </li>
 <li>
 <a href="#projects" style="scroll-behavior: smooth;">Projects</a>
 </li>
 <li>
-<a href="#contactinfo" data-toggle="tab" aria-controls="contactinfos" aria-selected="false">Contact me</a>
+<a href="#contactinfo" data-toggle="tab" aria-controls="contactinfos" aria-selected="false">:)</a>
 </li>
 </ul>
 </nav>
@@ -300,7 +300,7 @@
 <div class="row">
 <div class="col-lg-12">
 <div class="inner">
-<h1 class="title theme-gradient">Sowd</h1>
+<h1 class="title theme-gradient">Schervi</h1>
 </div>
 </div>
 </div>
@@ -310,7 +310,7 @@
 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
 <div class="single-service service__style--3 text-white">
 <div class="content">
-<h3 class="title">Creating scripts for all</h3>
+<h3 class="title">Some Shitty Roblox Scripter.</h3>
 </div>
 </div>
 <ul class="nav nav-tabs tab-style--1" id="myTab" role="tablist">
@@ -322,7 +322,7 @@ me</a>
 <a class="nav-link" id="siteList" href="#projects" aria-selected="false">Projects</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" id="thread" href="https://v3rmillion.net/member.php?action=profile&uid=1319095" aria-selected="false">Profile</a>
+<a class="nav-link" id="thread" href="https://twitter.com/Schervi1" aria-selected="false">Twitter</a>
 </li>
 </ul>
 <div class="tab-content" id="myTabContent">
@@ -332,7 +332,7 @@ me</a>
 <li><a href="https://discord.gg">
 <i class="fab fa-discord"></i>
 Discord:
-</a>Sowd#0001</li>
+</a>Schervi#0001</li>
 </ul>
 </div>
 </div>
@@ -358,7 +358,7 @@ Discord:
 <div class="col-lg-7 col-md-12">
 <div class="about-inner inner">
 <div class="section-title">
-<h2 class="title" style="font-size: xx-large;">What can Sowd do?</h2>
+<h2 class="title" style="font-size: xx-large;">What can Schervi do?</h2>
 <p class="description">Nothing lol but here's my discord</p>
 </div>
 <div class="row mt--30 mt_sm--10">
@@ -366,7 +366,7 @@ Discord:
 <div class="slide-btn">
 <a class="rn-button-style--2 btn-solid" href="#" style="text-transform: none;">
 <i class="fab fa-discord"></i>
-Sowd#0001
+Schervi#0001
 </a>
 </div>
 </div>
@@ -397,8 +397,8 @@ Sowd#0001
 <i class="fas fa-code"></i>
 </div>
 <div class="content">
- <h3 class="title">Sowd's Palace</h3>
-<p>Scripts discord.gg/jxl</p>
+ <h3 class="title">Anomic Z</h3>
+<p>https://discord.gg/mpYekpQ2CW</p>
 </div>
 </div>
 </a>
@@ -414,7 +414,7 @@ Sowd#0001
 <i class="fas fa-user-shield"></i> </div>
 <div class="content">
 <h3 class="title">Secure Log</h3>
-<p>Safe Logs discord.gg/XmS3PvZ</p>
+<p>Floppa Hub discord.gg/dvkGhrnakx</p>
 </div>
 </div>
 </a>
@@ -456,7 +456,7 @@ Sowd#0001
 <div class="slide-btn text-center mt-4">
 <a class="rn-button-style--2 btn-border" href="#" style="text-transform: none;">
 <i class="fab fa-discord"></i>
-Sowd#0001
+Schervi#0001
 </a>
 </div>
 </div>
@@ -478,7 +478,7 @@ Sowd#0001
 <div class="col-lg-4 col-md-6 col-sm-6 col-12">
 <div class="inner text-center">
 <div class="text">
- <p>Copyright © 2021 Sowd</p>
+ <p>Copyright © 2021 Schervi</p>
 </div>
 </div>
 </div>
